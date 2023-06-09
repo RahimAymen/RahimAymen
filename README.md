@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RahimAymen
-- 🙋🏻‍♂️ I'm 16 years old
-- 👨🏻‍🎓 I'm a high school student
-- 👀 I’m interested in Playing handball and Photoghraphy
-- 🌱 I’m currently learning HTML&CSS
-- 📫 You can reach me by my Instagram: @aymen_rahim16
+- 🙋🏻‍♂️ I'm 17 Years Old
+- 👨🏻‍🎓 I'm a High School Student
+- 👀 I’m Interested In Playing Handball And Photoghraphy
+- 🌱 I’m currently learning HTML&CSS And Some Javascript
+- 📫 You Can Reach Me Out By My Personal Instagram: @justuraymenn
 
 <!---
 RahimAymen/RahimAymen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
